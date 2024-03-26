@@ -1,5 +1,6 @@
-# my_project_2
+CHESSBOARD:
 
-Static chessboard - with css : 
-This is a simple html file with an internal css code. This is to test my proficiency in css and html.
+*It is a Static Chessboard with css .
+
+*This is a simple html file with an internal css code. This is to test my proficiency in css and html.
 
